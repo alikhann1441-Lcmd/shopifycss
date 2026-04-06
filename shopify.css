@@ -461,6 +461,9 @@ h2.slide-heading.slide-mobile.has-border.scroll-trigger.animate--slide-in {
 }
 
 
+button.button.button--secondary {
+    border-radius: 10px !important;
+}
 
 
 
