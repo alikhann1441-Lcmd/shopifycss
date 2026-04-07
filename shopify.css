@@ -526,3 +526,57 @@ a.card-title.link-underline.card-title-ellipsis {
 }
 
 }
+
+
+.previewCartItem-qty .btn-quantity:before {
+   
+    background: white !important;
+}
+.previewCartItem-qty input[type=number] {
+   
+    color: white !important;
+}
+@media (max-width: 550px) {
+    .productView-tab .tab-content svg {
+        width: 16px;
+        height: 14px;
+        fill: white !important;
+    }
+}
+button.button.button--secondary {
+    border-radius: 10px;
+}
+.wrapper-cartCount {
+    color: #ffffff !important;
+    margin-top: 8px;
+    margin-bottom: 0;
+}
+
+shop-follow-button {
+    text-align: center !important;
+}
+
+button#product-add-to-cart-7741150330950 {
+    border-radius: 0px !important;
+}
+@media screen and (max-width: 767px) {
+    .menu-lv-item .text {
+        font-size: 18px !important;
+        padding: 0.5rem !important;
+    }
+}
+.faqs .faqs-item .card-header:not(.collapsed)+.collapse {
+    pointer-events: auto;
+    background: black !important;
+}
+button.button.button--secondary {
+    border-radius: 0px !important;
+}
+#AirReviews-Widget__Modal .AirReviews-Modal__Wrapper.AirReviews-Modal__Wrapper--Open-Modal {
+   
+    background: black !important;
+}
+
+#AirReviews-Widget__Modal.AirReviews-Widget__V2 .AirReviews-Modal__Header {
+    background-color: #000000 !important;
+}
